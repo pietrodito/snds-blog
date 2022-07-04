@@ -42,7 +42,7 @@
       org-html-head-include-scripts nil       ;; Use our own scripts
       org-html-head-include-default-style nil ;; Use our own styles
       org-html-head (concat
-                     "<link rel=\"shortcut icon\" type=\"image/png\" href=\"img/favicon.png\" />"
+                     "<link rel=\"shortcut icon\" type=\"image/png\" href=\"../img/favicon.png\" />"
                      "<link rel=\"stylesheet\" href=\"https://cdn.simplecss.org/simple.min.css\" />"
                      "<link rel=\"stylesheet\" href=\"./css/ulys.css\" />"
                      "<link rel=\"stylesheet\" href=\"https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.1.1/css/all.min.css\">"
