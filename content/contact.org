@@ -1,0 +1,7 @@
+#+title:  Contact
+#+OPTIONS: title:nil
+#+OPTIONS: html-postamble:nil
+
++ My name is Pierre Balaye
++ email: pierre dot balaye at gmail dot com
++ [[file:~/Comp/snds-blog/dwld/CV_Balaye.pdf][Curriculum Vitae]]

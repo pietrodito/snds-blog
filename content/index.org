@@ -1,0 +1,7 @@
+#+title: SNDS
+#+OPTIONS: title:nil
+#+OPTIONS: html-postamble:nil
+
++ À venir
+
+  Un blog sur l'exploitation des données du [[https://www.snds.gouv.fr/SNDS/Accueil][Systène National des Données de Santé]].
