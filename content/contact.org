@@ -5,3 +5,4 @@
 + My name is Pierre Balaye
 + email: pierre dot balaye at gmail dot com
 + [[file:~/Comp/snds-blog/dwld/CV_Balaye.pdf][Curriculum Vitae]]
++ Personal website: [[https://www.balaye.net][www.balaye.net]]
